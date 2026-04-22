@@ -1,0 +1,17 @@
+[Unit]
+Description=GroceryAI Telegram Bot
+After=network.target
+
+[Service]
+Type=simple
+User=<user>
+WorkingDirectory=/home/<user>/groceryai
+EnvironmentFile=/home/<user>/groceryai/config.env
+ExecStart=/home/<user>/groceryai/venv/bin/python bot.py
+Restart=on-failure
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

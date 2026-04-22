@@ -1,0 +1,40 @@
+
+Always output sections in exactly the order listed in this template. Do not reorder them.
+
+=Fruits = examples: Grapes, Peaches, Pineapple, Kiwi, Plums, Watermelon, Cherries
+
+=Vegetables=
+Broccoli, Zucchini, Celery, Spinach, Asparagus, Sweet Potatoes, Corn
+
+=Meats=
+Turkey, Salmon, Shrimp, Lamb, Bacon, Hot Dogs
+
+=Eggs/Yogurts=
+Eggs, Greek Yogurt, Cream Cheese
+
+=Aisle A=
+Pretzels
+
+=Aisle B =
+Lentils, Rice, Quinoa, Wraps
+
+=== Aisle C ===
+Tomato Sauce, Marinara, Penne
+
+=== Aisle C1===
+Cumin, Paprika, Oregano, Thyme, Chili Flakes
+
+=== Aisle D ===
+Oat Milk, Soy Milk, Ham Deli, Salami
+
+=== Aisle F ===
+Sourdough, Bagels, Dinner Rolls, Rice Cakes, Sunflower Oil, Coconut Oil, Laundry Detergent, Hand Soap
+
+=== Aisle G ===
+Waffles, Tater Tots, Edamame, Frozen Pizza, Sorbet
+
+=Uncategorized= always place this second-to-last, above Crossed Out
+if you don't know where to put something, put it here for now
+
+=Crossed Out=
+If an item on the list is crossed out, put that item here
